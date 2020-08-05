@@ -1,2 +1,3 @@
-# pandas_na_pratica
-Repositório para testes feitos com o Pandas
+# Pandas na prática
+
+Compartilhar algumas análises feitas com o Pandas.
